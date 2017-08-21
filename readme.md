@@ -39,8 +39,14 @@ My own command line based password manager.
 
 `pip install fpasswd`
 
+or
+`pip instal .`
 
+
+## Contributing
+
+You can publish your password by pull request, thank you.
 
 ## Liscense
 
-Just shit, eat or not.
+Just sh1t, eat or not.
