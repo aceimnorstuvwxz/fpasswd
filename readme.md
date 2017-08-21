@@ -5,15 +5,7 @@
 My own command line based password manager.
 
 
-
-- show help
-
-  `fpasswd`
-
-
-- set up the local file to save data
-
-  `fpasswd config —path "~/.fpasswd" `
+- the local data file
 
   pure lightwight, no encryption exist, just plain text
 
@@ -34,11 +26,11 @@ My own command line based password manager.
 
 - delete certain one 
 
-  `fpasswd remove 1`
+  `fpasswd delete 1`
 
 
   ```
-  [removed]1 tabao 遗憾2017 pass8989 2017-01-01-20:00
+  [deleted]1 tabao 遗憾2017 pass8989 2017-01-01-20:00
   ```
 
 
@@ -51,12 +43,4 @@ My own command line based password manager.
 
 ## Liscense
 
-I'm glad if you need this piece of thit, so do what ever you want with it with no warrant provided.
-
-MIT 9.0
-
-
-
-Powered by Tencent 7.0 Nxe999xx
-
-M4j0r
+Just shit, eat or not.
